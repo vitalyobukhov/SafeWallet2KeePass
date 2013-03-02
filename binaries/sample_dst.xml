@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KeePassFile>
+  <Root>
+    <Group>
+      <Name>Test Wallet</Name>
+      <Group>
+        <Name>Folder 1</Name>
+        <Entry>
+          <String>
+            <Key>Title</Key>
+            <Value>Card 1</Value>
+          </String>
+          <String>
+            <Key>Login</Key>
+            <Value>Login 1</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value ProtectInMemory="True">Password 1</Value>
+          </String>
+        </Entry>
+        <Entry>
+          <String>
+            <Key>Title</Key>
+            <Value>Card 2</Value>
+          </String>
+          <String>
+            <Key>Login</Key>
+            <Value>Login 2</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value ProtectInMemory="True">Password 2</Value>
+          </String>
+        </Entry>
+      </Group>
+      <Group>
+        <Name>Folder 2</Name>
+        <Entry>
+          <String>
+            <Key>Title</Key>
+            <Value>Card 3</Value>
+          </String>
+          <String>
+            <Key>Login</Key>
+            <Value>Login 3</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value ProtectInMemory="True">Password 3</Value>
+          </String>
+          <String>
+            <Key>Custom Field</Key>
+            <Value ProtectInMemory="True">Custom Value</Value>
+          </String>
+        </Entry>
+      </Group>
+      <Group>
+        <Name>Folder N</Name>
+      </Group>
+    </Group>
+  </Root>
+</KeePassFile>

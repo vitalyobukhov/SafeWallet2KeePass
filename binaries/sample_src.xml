@@ -1,0 +1,42 @@
+<SafeWallet WalletName="Test Wallet">
+  <T37 Caption="Vault" Icon="0">
+    <T3 Caption="Folder 1" Icon="0">
+	  <T4 Caption="Card 1" Icon="91">
+        <T257 Caption="Login">Login 1</T257>
+        <T263 Caption="Password">Password 1</T263>
+	  </T4>
+	  <T4 Caption="Card 2" Icon="91">
+        <T257 Caption="Login">Login 2</T257>
+        <T263 Caption="Password">Password 2</T263>
+	  </T4>
+	</T3>
+	<T3 Caption="Folder 2" Icon="0">
+	  <T4 Caption="Card 3" Icon="91">
+        <T257 Caption="Login">Login 3</T257>
+        <T263 Caption="Password">Password 3</T263>
+		<T263 Caption="Custom Field">Custom Value</T263>
+	  </T4>
+	</T3>
+	<T3 Caption="Folder N" Icon="0">
+	</T3>
+  </T37>
+  <T34 Caption="Templates" Icon="265">
+  </T34>
+  <T27 Caption="Website Ignores" Icon="264" />
+    <T39 Caption="Identity" Icon="81">
+    <T49 Caption="Home" Icon="81">
+      <T257 Caption="IDENTITY_FIELD_PHONE_TYPE">mobile</T257>
+      <T257 Caption="IDENTITY_FIELD_PHONE_COUNTRY_CODE">0</T257>
+      <T257 Caption="IDENTITY_FIELD_PHONE_NUMBER">0000000000</T257>
+      <T257 Caption="IDENTITY_FIELD_PHONE_EXT" />
+    </T49>
+    <T48 Caption="Caption" Icon="81" />
+    <T40 Caption="Personal details" Icon="81">
+      <T257 Caption="IDENTITY_FIELD_PERSONAL_FIRST_NAME">First</T257>
+      <T257 Caption="IDENTITY_FIELD_PERSONAL_INITIAL" />
+      <T257 Caption="IDENTITY_FIELD_PERSONAL_LAST_NAME">Last</T257>
+      <T257 Caption="IDENTITY_FIELD_PERSONAL_GENDER">m</T257>
+      <T259 Caption="IDENTITY_FIELD_PERSONAL_DATE_OF_BIRTH">19800127000000</T259>
+    </T40>
+  </T39>
+</SafeWallet>
