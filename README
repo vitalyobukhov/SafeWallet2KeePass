@@ -1,1 +1,6 @@
 SafeWallet 3.x to KeePass 2.x XML DB converter.
+
+Usage:
+1. In SafeWallet 3.x: File -> Export
+2. In cmd: SafeWallet2KeePass.exe SafeWallet_ExportXML_Filename KeePass_ImportXML_Filename [Regex_ToProtectSomeCaptions]
+3. In KeePass 2.x: File -> Import -> KeePass XML (2.x) -> KeePass_ImportXML_Filename -> Overwrite existing

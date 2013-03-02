@@ -1,0 +1,4 @@
+*.suo
+*.user
+SafeWallet2KeePass/bin/
+SafeWallet2KeePass/obj/
